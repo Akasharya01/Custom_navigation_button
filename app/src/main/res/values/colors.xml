@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="selectedColor">#04E1F8</color>
+    <color name="defaultIColor">#04E1F8</color>
+    <color name="CountTextColor">#04E1F8</color>
+    <color name="CountBackgroundColor">#04E1F8</color>
+    <color name="CircleColor">#04E1F8</color>
+    <color name="backgroundBottomColor">#04E1F8</color>
+    <color name="shadowColor">#04E1F8</color>
+</resources>

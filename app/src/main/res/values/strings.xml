@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomNavigationBottom</string>
+    <string name="home_is_selected">Home is Selected</string>
+</resources>
